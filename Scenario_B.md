@@ -14,4 +14,4 @@ If you have any questions or need further assistance, please don't hesitate to r
 
 Best Regards,
 
-CodePath.org
+CodePath.org Team
